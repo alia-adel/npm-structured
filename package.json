@@ -10,11 +10,14 @@
     "request": "^2.88.0",
     "underscore": "^1.9.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  },
   "scripts": {
-    "start": "node .\\assets\\scripts\\main.js",
-    "js-add": "node .\\assets\\scripts\\add.js",
-    "say-hello": "echo 'Hello World'"
+    "start": "node assets/scripts/main.js",
+    "js-add": "node assets/scripts/add.js",
+    "say-hello": "echo 'Hello World'",
+    "scss": "node-sass -o dist/css assets/scss/main.scss"
   },
   "repository": {
     "type": "git",

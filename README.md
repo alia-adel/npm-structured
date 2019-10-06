@@ -7,4 +7,5 @@ Practice project for npm commands and scripts
 
 ## References
 - https://www.sitepoint.com/beginners-guide-node-package-manager/
-- https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/
+- <b>Custom scripts:</b> https://www.freecodecamp.org/news/introduction-to-npm-scripts-1dbb2ae01633/
+- <b>Compile sass:</b> https://deliciousbrains.com/npm-build-script/
