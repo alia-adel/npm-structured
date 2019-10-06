@@ -14,8 +14,7 @@
   "scripts": {
     "start": "node .\\assets\\scripts\\main.js",
     "js-add": "node .\\assets\\scripts\\add.js",
-    "say-hello": "echo 'Hello World'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "say-hello": "echo 'Hello World'"
   },
   "repository": {
     "type": "git",
