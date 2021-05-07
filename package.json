@@ -8,7 +8,7 @@
     "mkdirp": "^0.5.1",
     "popper.js": "^1.14.7",
     "request": "^2.88.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "node-sass": "^4.12.0"
