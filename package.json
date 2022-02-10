@@ -11,7 +11,7 @@
     "underscore": "^1.9.1"
   },
   "devDependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   },
   "scripts": {
     "start": "node assets/scripts/main.js",
